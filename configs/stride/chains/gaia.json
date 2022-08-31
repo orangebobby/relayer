@@ -3,7 +3,7 @@
   "value": {
     "key": "wallet",
     "chain-id": "GAIA",
-    "rpc-addr": "http://95.216.161.242:16657",
+    "rpc-addr": "http://135.181.248.94:23657:23657",
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
